@@ -1,0 +1,11 @@
+.card-glass{
+background: #121c2787;        
+padding: 4%;
+margin-left: 19%;
+margin-right: 19%;
+        backdrop-filter: blur(5px);
+        -webkit-backdrop-filter: blur(2.5px);
+        border-radius: 10px;
+
+}
+
